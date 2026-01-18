@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT"
+  },
+  "grammars": [
+    {
+      "name": "anchor",
+      "scope": "source.anchor",
+      "file-types": ["anc"],
+      "highlights": "queries/highlights.scm",
+      "path": "."
+    }
+  ]
+}
